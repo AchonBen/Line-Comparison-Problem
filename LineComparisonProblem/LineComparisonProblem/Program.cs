@@ -1,3 +1,3 @@
 ﻿using LineComparisonProblem;
 
-UC1LineLength.Distance();
+UC1_LineLength.Distance();
