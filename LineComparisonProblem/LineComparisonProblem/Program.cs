@@ -1,3 +1,3 @@
 ﻿using LineComparisonProblem;
 
-UC2_EqualityOfTwoLines.Distance();
+UC3_GreaterThanOrEqual.Distance();
