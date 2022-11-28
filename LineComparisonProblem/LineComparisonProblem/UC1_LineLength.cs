@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LineComparisonProblem
 {
-    internal class UC1_LineLength
+    internal class UC1LineLength
     {
             public static void Distance()
             {
