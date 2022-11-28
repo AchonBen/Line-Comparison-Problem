@@ -1,1 +1,3 @@
-﻿Console.WriteLine("Welcome to Line Comparison Computation Program");
+﻿using LineComparisonProblem;
+
+LineLength.Distance();
